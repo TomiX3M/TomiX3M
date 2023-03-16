@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src = "https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif">
+<img src = "https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif"/>
 
-<img src = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwj4hYrzmuH9AhVBmicCHbBPBIoQMyhIegUIARCoAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=programming%20gif&ved=2ahUKEwj4hYrzmuH9AhVBmicCHbBPBIoQMyhIegUIARCoAQ'/>
+<img src = 'https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966'/>
 
 <h1 align="center">Hi 👋, I'm Tomi Lijoka</h1>
 <h3 align="center">A Mobile App Developer</h3>
