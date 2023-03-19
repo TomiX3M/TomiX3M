@@ -1,6 +1,5 @@
 
-
-
+<h1 align = 'center'><img src = "./github-header-image.png" ></h1>
 
 <h1 align="center">Hello 👋, I'm Tomi Lijoka</h1>
 <h3 align="center">A Flutter Mobile App Developer</h3>
