@@ -1,7 +1,7 @@
 
 <h1 align = 'center'><img src = "./black_profiile_banner.png" ></h1>
 
-<h1 align="center">Hello 👋, I'm Tomi Lijoka</h1>
+<h1 align="center">Hello 👋, I'm Segun Kuponiyi</h1>
 <h3 align="center">A Flutter Mobile App Developer</h3>
 
 <br>
